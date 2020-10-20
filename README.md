@@ -1,6 +1,6 @@
 ##  I'm Fabian! I'm a technical sound designer, software engineer, & composer!
 
- As an experienced music & audio professional, I try to align my interests of audio with technology.
+ As an experienced music & audio professional, I try to align my interests of audio with technology. I also work with game audio development.
  
 😄 Pronouns: He/Him
 
