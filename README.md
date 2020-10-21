@@ -4,11 +4,11 @@
  
 😄 Pronouns: He/Him
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on:
 - **Reincarnation of Buwan** a solo Unity game project, started for #Devtober game jam but will continue afterwards
 - **Jam Out** a Music SPA with React Hooks + Django of making your own music loop sequences to play to with the piano keyboard on the app.
 -------------------
-📫 How to reach me: ...
+📫 How to reach me:
 - [Portfolio](https://fabian-fabro.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/fabian-fabro)
 - [Youtube](https://www.youtube.com/firahfabe)
