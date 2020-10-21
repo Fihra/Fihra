@@ -5,7 +5,7 @@
 😄 Pronouns: He/Him
 
 🔭 I’m currently working on:
-- **Reincarnation of Buwan** a solo Unity game project, started for #Devtober game jam but will continue afterwards
+- **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards
 - **Jam Out** a Music SPA with React Hooks + Django of making your own music loop sequences to play to with the piano keyboard on the app.
 -------------------
 📫 How to reach me:
