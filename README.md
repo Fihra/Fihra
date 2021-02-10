@@ -6,6 +6,7 @@
 
 🔭 I’m currently working on:
 - **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards
+- **Music Player** a Music Player Desktop app, building in Electron.js and using Web Audio API.
 - **Jam Out** a Music SPA with React Hooks + Django of making your own music loop sequences to play to with the piano keyboard on the app.
 -------------------
 📫 How to reach me:
