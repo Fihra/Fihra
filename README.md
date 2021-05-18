@@ -8,7 +8,7 @@
 - **Saranay VST** a Kontakt instrument building with KSP, a Filipino traditional instrument of a 8-pitched gong set.
 - **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards.
 - **Music Player** a Music Player Desktop app, building in Electron.js and using Web Audio API.
-- **Jam Out** a Music SPA with React Hooks + Django of making your own music loop sequences to play to with the piano keyboard on the app.
+- **Music Leftovers** a Music Gear Shop, building with React Hooks + Material UI, using Email.js, and still deciding to either integrate Stripe.js or FastSpring for payment methods.
 -------------------
 📫 How to reach me:
 - [Portfolio](https://fabian-fabro.netlify.app/)
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+- **Jam Out** a Music SPA with React Hooks + Django of making your own music loop sequences to play to with the piano keyboard on the app.
 
 - ⚡ Fun fact: ...
 -->
