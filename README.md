@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on:
 - **Saranay VST** a Kontakt instrument building with KSP, a Filipino traditional instrument of a 8-pitched gong set.
+- **Multo ilaw** a small Unity game, where you play as a ghost who has to bring a light to a village ward off evil spirits
 - **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards.
-- **Music Player** a Music Player Desktop app, building in Electron.js and using Web Audio API.
-- **Music Leftovers** a Music Gear Shop, building with React Hooks + Material UI, using Email.js, and still deciding to either integrate Stripe.js or FastSpring for payment methods.
+
 -------------------
 📫 How to reach me:
 - [Portfolio](https://fabian-fabro.netlify.app/)
