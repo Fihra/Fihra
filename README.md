@@ -5,7 +5,6 @@
 😄 Pronouns: He/Him
 
 🔭 I’m currently working on:
-- **Saranay VST** a Kontakt instrument building with KSP, a Filipino traditional instrument of a 8-pitched gong set.
 - **Multo ilaw** a small Unity game, where you play as a ghost who has to bring a light to a village ward off evil spirits
 - **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards.
 
