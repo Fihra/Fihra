@@ -4,10 +4,6 @@
  
 😄 Pronouns: He/Him
 
-🔭 I’m currently working on:
-- **Multo ilaw** a small Unity game, where you play as a ghost who has to bring a light to a village ward off evil spirits
-- **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards.
-
 -------------------
 📫 How to reach me:
 - [Portfolio](https://fabian-fabro.netlify.app/)
@@ -18,6 +14,11 @@
 <!--
 **Fihra/Fihra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+🔭 I’m currently working on:
+- **Multo ilaw** a small Unity game, where you play as a ghost who has to bring a light to a village ward off evil spirits
+- **Reincarnation of Buwan** a Unity game passion project, started for #Devtober solo game jam but will continue afterwards.
 
 Here are some ideas to get you started:
 
