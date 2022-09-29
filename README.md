@@ -1,5 +1,4 @@
 ##  I'm Fabian! 
-<hr/>
 I'm a technical sound designer, software engineer, & composer!
 
  I work with game audio, full-stack, audio technology, music, sound design, and open to any audio work.
